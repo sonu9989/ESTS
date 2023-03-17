@@ -1,5 +1,5 @@
-# STSE
-Subsidence Trend and Seasonality Estimator (STSE) is an open-source integrated model that combines Geographically Weighted Regression (GWR) & Random Forest (RF) for estimating the trend and seasonality of subsidence by only using groundwater (hydraulic head) observations.
+# ESTS
+Estimator of Subsidence Trend and Seasonality (ESTS) is an open-source integrated model that combines Geographically Weighted Regression (GWR) & Random Forest (RF) for estimating the trend and seasonality of subsidence by only using groundwater (hydraulic head) observations.
 
 ## 1. Seasonality and trend decomposition (STD) of subsidence and groundwater
 **Decomposition.py**: - Time series decomposition of hydraulic head (h) & deformation (s)
