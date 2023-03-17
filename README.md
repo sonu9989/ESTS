@@ -1,5 +1,5 @@
 # ESTS
-Estimator of Subsidence Trend and Seasonality (ESTS) is an open-source integrated model that combines Geographically Weighted Regression (GWR) & Random Forest (RF) for estimating the trend and seasonality of subsidence by only using groundwater (hydraulic head) observations.
+Estimator of Subsidence Trend and Seasonality (ESTS) is an open-source integrated model that combines Geographically Weighted Regression (GWR) & Random Forest (RF) for estimating the trend and seasonality in subsidence by only using groundwater (hydraulic head) observations as input variable.
 
 ## 1. Seasonality and trend decomposition (STD) of subsidence and groundwater
 **Decomposition.py**: - Conducts Time series decomposition of original hydraulic head (h) & deformation (s) time series dataset.
@@ -9,3 +9,8 @@ Estimator of Subsidence Trend and Seasonality (ESTS) is an open-source integrate
 
 ## 3. Change Estimator for subsidence change (&Delta;s) based on groundwater change (&Delta;h)
 **Change_Estimator_main.m**: - Estimates subsidence change (&Delta;s) through hydraulic head change (&Delta;h) using GWR.
+
+# Important References
+1. Breiman, L., 2001. Random Forests. Mach. Learn. 45, 5–32. https://doi.org/10.1023/A:1010933404324
+2. Cleveland, R.B., Cleveland, W.S., McRae, J.E., Terpenning, I., 1990. STL: A Seasonal-Trend Decomposition Procedure Based on Loess. J. Off. Stat. 6, 3–73.
+3. LeSage, J., & Pace, R. K. (2009). Introduction to spatial econometrics. Chapman and Hall/CRC.
