@@ -5,7 +5,7 @@ Subsidence Trend and Seasonality Estimator (STSE) is an open-source integrated m
 **Decomposition.py**: - time series decomposition of hydraulic head (h) & deformation (s)
 
 ## 2. Modeling the non-trend dataset of subsidence (s<sub>non-trend</sub>) and groundwater (h<sub>non-trend</sub>)
-**Non-trend Model.ipynb**: -  estimation of non-trend subsidence (s<sub>non-trend</sub>) using Random Forest (RF) 
+**Non-trend Model.ipynb**: -  Estimation of non-trend subsidence (s<sub>non-trend</sub>) using Random Forest (RF) 
 
 ## 3. Estimated subsidence change (&Delta;s) based on groundwater change (&Delta;h)
-**main.m** estimation of subsidence change using GWR
+**main.m**: - Estimation of subsidence change (&Delta;s) using GWR
