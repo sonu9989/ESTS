@@ -12,4 +12,4 @@
 
 ## 3. Estimated subsidence change based on groundwater change
 
-Trend Estimator estimation of subsidence change using GWR
+**main.m** estimation of subsidence change using GWR
