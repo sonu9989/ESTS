@@ -6,7 +6,7 @@
 **Decomposition.py**: - time series decomposition of hydraulic head (h) & deformation (s) based on S
 
 
-## 2. Modeling the non-trend dataset of subsidence and groundwater
+## 2. Modeling the non-trend dataset of subsidence (s<sub>non-trend</sub>) and groundwater (h<sub>non-trend</sub>)
 
 **Non-trend Model.ipynb**: -  estimation of non-trend subsidence (s<sub>non-trend</sub>) using Random Forest (RF) 
 
