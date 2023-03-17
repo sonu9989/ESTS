@@ -10,6 +10,6 @@
 
 **Non-trend Model.ipynb**: -  estimation of non-trend subsidence (s<sub>non-trend</sub>) using Random Forest (RF) 
 
-## 3. Estimated subsidence change (&Delta;) based on groundwater change
+## 3. Estimated subsidence change (&Delta;s) based on groundwater change (&Delta;h)
 
 **main.m** estimation of subsidence change using GWR
