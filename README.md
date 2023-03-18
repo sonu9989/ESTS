@@ -6,6 +6,7 @@ Estimator of Subsidence Trend and Seasonality (ESTS) is an open-source integrate
 
 ## 2. Model for the non-trend (seasonality) dataset of subsidence (s<sub>non-trend</sub>) and groundwater (h<sub>non-trend</sub>)
 **Non-trend Model_main.ipynb**: -  Estimates the non-trend subsidence (s<sub>non-trend</sub>) through non-trend groundwater (h<sub>non-trend</sub>) using the Random Forest (RF) model.
+
 s<sub>non-trend</sub> = f(h<sub>non-trend</sub>)
 
 ## 3. Change Estimator for subsidence change (&Delta;s) based on groundwater change (&Delta;h)
