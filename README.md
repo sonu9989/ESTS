@@ -24,6 +24,10 @@ s<sub>non-trend</sub> = f(h<sub>non-trend</sub>)
 
 **RAM**: - 16.00 GB
 
+1. The "*Decomposition_main.py*", "*Change_Estimator_main.m*", and  "*Non-trend Model_main.ipynb*" were tested on Python Programming Language (Version 3.9)
+
+2. The "*Change_Estimator_main.m*" was tested on MATLAB (2022a) Environment.
+
 # Important References
 1. Breiman, L., 2001. Random Forests. Mach. Learn. 45, 5–32. https://doi.org/10.1023/A:1010933404324
 2. Cleveland, R.B., Cleveland, W.S., McRae, J.E., Terpenning, I., 1990. STL: A Seasonal-Trend Decomposition Procedure Based on Loess. J. Off. Stat. 6, 3–73.
