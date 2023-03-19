@@ -19,7 +19,9 @@ s<sub>non-trend</sub> = f(h<sub>non-trend</sub>)
 
 # System Environment at the time of Experiment
 **OS**: - Microsoft Windows 10 Home
+
 **CPU**: - Inter(R) Core(TM) i7 7700HQ 2.80 GHz
+
 **RAM**: - 16.00 GB
 
 # Important References
