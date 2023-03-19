@@ -11,6 +11,7 @@ s<sub>non-trend</sub> = f(h<sub>non-trend</sub>)
 
 ## 3. Change Estimator for Subsidence Change (&Delta;s) based on Groundwater Change (&Delta;h)
 **Change_Estimator_main.m**: - Estimates subsidence change (&Delta;s) through hydraulic head change (&Delta;h) using GWR. Also provides spatial Intercepts & Coefficients for each Wells.
+
 &Delta;s = f(&Delta;h)
 
 ## 4. Trend Estimator for Computing Trends in Subsidence i.e., s<sub>trend</sub>
