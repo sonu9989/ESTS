@@ -45,7 +45,7 @@ coefficient_file = [station_id_coord2, coeff2];
 writetable(coefficient_file, "Spatial_Coefficient.csv")
 
 % Use the coefficients for subsequent estimation of ∆s using ∆h as shown in
-% file "Trend Estimation.csv" over each Groundwater Monitoring Well and 
+% file "Trend Estimation.xlsx" over each Groundwater Monitoring Well and 
 % calculate their respective total subsidence (s(t)) in Microsoft Excel by 
 % using the following equations:
 % ***∆s(t) = Intercept(X,Y)+ Coefficient(X,Y)*∆h(t)***
