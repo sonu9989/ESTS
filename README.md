@@ -15,7 +15,7 @@ s<sub>non-trend</sub> = f(h<sub>non-trend</sub>)
 &Delta;s = f(&Delta;h)
 
 ## 4. Trend Estimation of Subsidence i.e., s<sub>trend</sub>
-**Trend Estimator.xlsx**: - Provides calculation to estimate s<sub>trend</sub> using the &Delta;s and s<sub>non-trend</sub> from "*Change_Estimator_main.m*" and  "*Non-trend Model_main.ipynb*", respectively in 4 sample wells.
+**Trend Estimation.xlsx**: - Provides calculation to estimate s<sub>trend</sub> using the &Delta;s and s<sub>non-trend</sub> from "*Change_Estimator_main.m*" and  "*Non-trend Model_main.ipynb*", respectively in 4 sample wells.
 
 # System Environment at the time of Experiment
 **OS**: - Microsoft Windows 10 Home
